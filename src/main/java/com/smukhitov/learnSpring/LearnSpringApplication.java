@@ -1,13 +1,14 @@
-package com.smukhitov.learningspring;
+package com.smukhitov.learnSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearningSpringApplication {
+public class LearnSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearningSpringApplication.class, args);
+
+		SpringApplication.run(LearnSpringApplication.class, args);
 	}
 
 }
